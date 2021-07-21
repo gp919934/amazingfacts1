@@ -22,7 +22,7 @@
 }
 #navbar::before{
     content:  "";
-    background-color: rgb(72 125 135);
+    background-color: rgb(50 55 56);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -35,7 +35,7 @@
     font-size: 1.3rem;
 }
 #navbar ul li a{
-    color: rgb(14 209 200);
+    color: rgb(15 241 241);
     display: block;
     padding: 3px 22px;
     border-radius: 20px;
