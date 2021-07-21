@@ -56,7 +56,7 @@ height: 590px;
 }
 #home::before{
     content:  "";
-    background: url('/bg5.png') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/gp919934/amazingfacts1/master/bg5.png') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -131,7 +131,7 @@ color: brown; }
     height: 100%;
     z-index: -1;
     opacity: 4.9;
-    background: url('/img/two.png') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/gp919934/amazingfacts1/master/img/two.png') no-repeat center center/cover;
 }  
 #contact-box{
    display: flex;
